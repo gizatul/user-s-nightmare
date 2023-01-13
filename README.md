@@ -1,2 +1,2 @@
-# joke.github.io
+# User's nightmare
 Comic module
